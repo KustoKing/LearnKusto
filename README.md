@@ -16,7 +16,7 @@ Kusto Query Language (KQL) is a powerful query language developed by Microsoft, 
 
 - **Workshop Materials:**
   - Presentation slides from workshops such as the May 2025 KQL Workshop, covering foundational concepts to advanced techniques.
-  - Expert-led sessions from industry professionals including Bert-Jan Pals (ING Global CSIRT) and Gianni Castaldi (KustoWorks).
+  - Expert-led sessions from industry professionals including Bert-Jan Pals and Gianni Castaldi.
 
 - **Hands-on Exercises:**
   - Practical exercises designed to solidify your understanding of KQL.
